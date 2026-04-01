@@ -1,0 +1,14 @@
+anthropic
+requests
+beautifulsoup4
+playwright
+selenium
+pyppeteer
+python-dotenv
+watchdog
+pdfplumber
+python-docx
+fastapi
+uvicorn
+jinja2
+aiofiles
